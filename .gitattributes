@@ -1,2 +1,4 @@
 *.meta linguist-detectable=false
 *.mat linguist-detectable=false
+*.shader linguist-detectable=false
+*.asset linguist-detectable=false

@@ -2,3 +2,4 @@
 *.mat linguist-detectable=false
 *.shader linguist-detectable=false
 *.asset linguist-detectable=false
+Assets/TextMesh?Pro/* linguist-vendored
